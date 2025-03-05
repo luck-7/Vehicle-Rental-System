@@ -105,11 +105,12 @@ For any inquiries or issues, please open an issue on GitHub or contact the proje
 
 ## 3.Adding customer detail
 
+![Screenshot 2025-03-05 224300](https://github.com/user-attachments/assets/053bc780-ccbf-4576-a548-f2aa8ef1435a)
 
-![IMG_20250305_200828](https://github.com/user-attachments/assets/eb36fb54-a662-41e5-9cd9-3d8fef9b22c9)
 
 
-## 4.creating the rental service
+
+## 4. Creating the rental service
 
 ![IMG_20250305_200851](https://github.com/user-attachments/assets/40193abe-b1e5-49ab-859f-b9260156c4ed)
 
