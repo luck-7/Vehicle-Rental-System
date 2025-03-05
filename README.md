@@ -19,7 +19,7 @@ The **Vehicle Rental System** is a web-based application built using **Spring Bo
 
 - **Frontend**: HTML, CSS, Bootstrap, JSP (Java Server Pages)
 - **Backend**: Java, Spring Boot, Spring MVC, Spring Data JPA
-- **Database**: MySQL or PostgreSQL
+- **Database**: MySQL
 - **Tools**: Maven, Hibernate, Tomcat
 
 ## Installation
