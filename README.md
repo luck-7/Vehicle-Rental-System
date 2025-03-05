@@ -93,7 +93,7 @@ For any inquiries or issues, please open an issue on GitHub or contact the proje
 ##Some Snapshot
 
 
-## 1.Add vehicle for rental service
+## 1. Add vehicle for rental service
 
 
 ![Screenshot 2025-03-05 224952](https://github.com/user-attachments/assets/fcd024a7-8136-4752-a6e3-fc0c37e8ea7a)
@@ -101,7 +101,7 @@ For any inquiries or issues, please open an issue on GitHub or contact the proje
 
 
 
-## 2.Vehicle list
+## 2. Vehicle list
 
 ![Screenshot 2025-03-05 224746](https://github.com/user-attachments/assets/65367e9f-741e-4363-8d9a-c2e757d67ee8)
 
