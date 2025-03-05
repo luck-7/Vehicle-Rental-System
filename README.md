@@ -94,16 +94,22 @@ For any inquiries or issues, please open an issue on GitHub or contact the proje
 
 
 ## 1.Add vehicle for rental service
-![IMG_20250305_200734](https://github.com/user-attachments/assets/cedfa139-7808-4278-ae5a-6066a654aa19)
+
+
+![Screenshot 2025-03-05 224952](https://github.com/user-attachments/assets/fcd024a7-8136-4752-a6e3-fc0c37e8ea7a)
+
+
 
 
 ## 2.Vehicle list
 
-![IMG_20250305_200814](https://github.com/user-attachments/assets/f042bb24-1fa5-4e04-8454-20a04828317b)
+![Screenshot 2025-03-05 224746](https://github.com/user-attachments/assets/65367e9f-741e-4363-8d9a-c2e757d67ee8)
 
 
 
-## 3.Adding customer detail
+
+
+## 3. Adding customer detail
 
 ![Screenshot 2025-03-05 224300](https://github.com/user-attachments/assets/053bc780-ccbf-4576-a548-f2aa8ef1435a)
 
@@ -112,8 +118,12 @@ For any inquiries or issues, please open an issue on GitHub or contact the proje
 
 ## 4. Creating the rental service
 
-![IMG_20250305_200851](https://github.com/user-attachments/assets/40193abe-b1e5-49ab-859f-b9260156c4ed)
+
+![Screenshot 2025-03-05 225230](https://github.com/user-attachments/assets/4012d008-d437-46e3-bb61-ff8cacbde987)
 
 
-## 5.Listing the all rentals
-![IMG_20250305_202341](https://github.com/user-attachments/assets/cb381a23-a1e8-407f-9534-b12d812b1da1)
+## 5. Listing the all rentals
+
+![Screenshot 2025-03-05 225206](https://github.com/user-attachments/assets/ff47fa2c-c84c-4592-b0e1-a6e6ec6aa2e3)
+
+
