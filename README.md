@@ -93,37 +93,68 @@ For any inquiries or issues, please open an issue on GitHub or contact the proje
 ##Some Snapshot
 
 
-## 1. Add vehicle for rental service
+## 1. Vehicle rental Home page 
 
 
-![Screenshot 2025-03-05 224952](https://github.com/user-attachments/assets/fcd024a7-8136-4752-a6e3-fc0c37e8ea7a)
+<img width="1331" height="677" alt="Screenshot 2025-08-17 111831" src="https://github.com/user-attachments/assets/43f0dc95-15f5-4297-9da8-45e94541a3fb" />
 
 
 
-
-## 2. Vehicle list
-
-![Screenshot 2025-03-05 224746](https://github.com/user-attachments/assets/65367e9f-741e-4363-8d9a-c2e757d67ee8)
+<img width="1330" height="497" alt="Screenshot 2025-08-17 111920" src="https://github.com/user-attachments/assets/5421e41f-2fe9-4a5d-b85b-e9c59848f305" />
 
 
 
 
-
-## 3. Adding customer detail
-
-![Screenshot 2025-03-05 224300](https://github.com/user-attachments/assets/053bc780-ccbf-4576-a548-f2aa8ef1435a)
+<img width="1340" height="640" alt="Screenshot 2025-08-17 111857" src="https://github.com/user-attachments/assets/6a201f64-e441-429f-800a-c825a2d0582a" />
 
 
 
-
-## 4. Creating the rental service
-
-
-![Screenshot 2025-03-05 225230](https://github.com/user-attachments/assets/4012d008-d437-46e3-bb61-ff8cacbde987)
+## 2. Role based login
 
 
-## 5. Listing the all rentals
 
-![Screenshot 2025-03-05 225206](https://github.com/user-attachments/assets/ff47fa2c-c84c-4592-b0e1-a6e6ec6aa2e3)
+<img width="436" height="646" alt="Screenshot 2025-08-17 111944" src="https://github.com/user-attachments/assets/8928af38-3e9f-4173-ab8e-16f6a4c7a7a7" />
+
+
+
+
+## 3. Admin Dahboard
+
+
+
+
+<img width="1340" height="641" alt="Screenshot 2025-08-17 112129" src="https://github.com/user-attachments/assets/4fbd911d-903a-4f10-bc22-c866c05451a8" />
+
+
+
+
+
+<img width="1335" height="639" alt="Screenshot 2025-08-17 112218" src="https://github.com/user-attachments/assets/49b7d02d-07fc-4647-89b1-9a9b9ddd17fc" />
+
+
+
+
+
+<img width="1328" height="640" alt="Screenshot 2025-08-17 112151" src="https://github.com/user-attachments/assets/21b3bc2e-fdc3-48f8-885a-e4e9251bfd45" />
+
+
+
+
+## 4.Customer Dashboard
+
+
+<img width="1328" height="641" alt="Screenshot 2025-08-17 112327" src="https://github.com/user-attachments/assets/cb2c78a8-8722-48a7-bcd7-f0c6a8c23c20" />
+
+
+
+<img width="1341" height="647" alt="Screenshot 2025-08-17 112347" src="https://github.com/user-attachments/assets/6f1e1329-a6b4-4c23-a1e4-dd229f98fcc0" />
+
+
+#5 Car Available for rental
+
+<img width="1310" height="605" alt="Screenshot 2025-08-17 112439" src="https://github.com/user-attachments/assets/1e18da1b-a854-483d-90e5-3d3636812844" />
+
+
+
 
 
