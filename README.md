@@ -100,7 +100,13 @@ For any inquiries or issues, please open an issue on GitHub or contact the proje
 
 
 
+
+
 <img width="1330" height="497" alt="Screenshot 2025-08-17 111920" src="https://github.com/user-attachments/assets/5421e41f-2fe9-4a5d-b85b-e9c59848f305" />
+
+
+
+
 
 
 
@@ -109,11 +115,18 @@ For any inquiries or issues, please open an issue on GitHub or contact the proje
 
 
 
+
+
+
+
 ## 2. Role based login
 
 
 
 <img width="436" height="646" alt="Screenshot 2025-08-17 111944" src="https://github.com/user-attachments/assets/8928af38-3e9f-4173-ab8e-16f6a4c7a7a7" />
+
+
+
 
 
 
@@ -150,7 +163,11 @@ For any inquiries or issues, please open an issue on GitHub or contact the proje
 <img width="1341" height="647" alt="Screenshot 2025-08-17 112347" src="https://github.com/user-attachments/assets/6f1e1329-a6b4-4c23-a1e4-dd229f98fcc0" />
 
 
-#5 Car Available for rental
+
+
+
+
+## 5.Car Available for rental
 
 <img width="1310" height="605" alt="Screenshot 2025-08-17 112439" src="https://github.com/user-attachments/assets/1e18da1b-a854-483d-90e5-3d3636812844" />
 
